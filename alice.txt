@@ -1,1 +1,3 @@
-Alice new file, Bob edit it for question 2.2 GitHub with conflicts
+Alice new file, Bob edit it for question 2.2 GitHub with conflicts.
+new changes - alice, main branch
+
